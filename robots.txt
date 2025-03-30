@@ -1,0 +1,9 @@
+# Allow search engines to crawl everything except sensitive paths
+User-agent: *
+Disallow: /login/
+Disallow: /admin/
+Allow: /google-dorks/
+Allow: /image-search/
+Allow: / # Allow the main entry point
+
+Sitemap: https://datax-en.imdadintl.org/sitemap.xml
