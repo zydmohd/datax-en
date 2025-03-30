@@ -8,6 +8,8 @@
     <style>
         body {
             font-family: Arial, sans-serif;
+            background-color: #000000; /* Black background */
+            color: white; /* White text */
             text-align: center;
             padding: 50px;
         }
@@ -19,12 +21,25 @@
             background: #007BFF;
             text-decoration: none;
             border-radius: 5px;
+            transition: background 0.3s;
+        }
+        .btn:hover {
+            background: #0056b3; /* Darker blue on hover */
+        }
+        img.logo {
+            width: 150px;
+            margin-bottom: 20px;
         }
     </style>
 </head>
 <body>
+    <!-- Add logo -->
+    <img src="datax_white_bg.png" alt="DataX Logo" class="logo"> <!-- Replace with your logo image URL -->
+    
     <h1>Welcome to DataX</h1>
     <p>Explore powerful OSINT tools for investigators and researchers.</p>
-    <a class="btn" href="https://datax-en.onrender.com" target="_blank">Launch DataX App</a>
+    
+    <!-- Button updated to point to the new URL -->
+    <a class="btn" href="https://app.datax-en.imdadintl.org/" target="_blank">Launch DataX App</a>
 </body>
 </html>
