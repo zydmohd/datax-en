@@ -6,4 +6,4 @@ Allow: /google-dorks/
 Allow: /image-search/
 Allow: / # Allow the main entry point
 
-Sitemap: https://datax-en.imdadintl.org/sitemap.xml
+Sitemap: https://datax.imdadintl.org/sitemap.xml
