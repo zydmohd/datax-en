@@ -3,7 +3,7 @@
 
     <!-- Static GitHub Page -->
     <url>
-        <loc>https://datax-en.imdadintl.org/</loc>
+        <loc>https://datax.imdadintl.org/</loc>
         <!-- Update 1 Start -->
         <lastmod>2025-03-31</lastmod>
         <!-- Update 1 end -->
@@ -12,7 +12,7 @@
 
     <!-- Streamlit App URL (main app page) -->
     <url>
-        <loc>https://app.datax-en.imdadintl.org/</loc>
+        <loc>https://app.datax.imdadintl.org/</loc>
         <!-- Update 2 Start -->
         <lastmod>2025-03-31</lastmod>
         <!-- Update 2 end -->
@@ -21,7 +21,7 @@
 
     <!-- Additional pages if needed (e.g., specific tools in the app) -->
     <url>
-        <loc>https://app.datax-en.imdadintl.org/google-dorks</loc>
+        <loc>https://app.datax.imdadintl.org/google-dorks</loc>
         <!-- Update 3 Start -->
         <lastmod>2025-03-31</lastmod>
         <!-- Update 3 end -->
@@ -29,7 +29,7 @@
     </url>
     
     <url>
-        <loc>https://app.datax-en.imdadintl.org/image-search</loc>
+        <loc>https://app.datax.imdadintl.org/image-search</loc>
         <!-- Update 4 Start -->
         <lastmod>2025-03-31</lastmod>
         <!-- Update 4 end -->
